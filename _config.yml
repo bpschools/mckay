@@ -1,11 +1,13 @@
-title: Family Support Resources- Donald McKay School
-email: mcallaway@bostonpublicschools.org
-description: "This website is a list of resources that might be helpful for families of the Donald McKay K-8 School. Please contact your child's teacher for more information about these resources.
-
-Este sitio web es una lista de recursos que pueden ser útiles para las familias de la escuela Donald McKay K-8. Comuníquese con el maestro de su hijo para obtener más información sobre estos recursos."
-about: The Donald McKay K-8 School is a welcoming community that embraces the uniqueness of every child. We empower students to do their best by setting high expectations, actively involving families, and fostering core values of kindness, respect, effort, and responsibility.
 baseurl: mckay
-url: "https://bpschools.github.io/"
+description: "This website is a list of resources that might be helpful for families\
+  \ of the Donald McKay K-8 School. Please contact your child's teacher for more information\
+  \ about these resources.\n\n\n\nEste sitio web es una lista de recursos que pueden\
+  \ ser \xFAtiles para las familias de la escuela Donald McKay K-8. Comun\xEDquese\
+  \ con el maestro de su hijo para obtener m\xE1s informaci\xF3n sobre estos recursos."
+email: mcallaway@bostonpublicschools.org
+github_username: null
+plugins: [jekyll-feed]
 theme: minima
-plugins:
-  -jekyll-feed
+title: Family Support Resources- Donald McKay School
+twitter_username: null
+url: https://bpschools.github.io/
